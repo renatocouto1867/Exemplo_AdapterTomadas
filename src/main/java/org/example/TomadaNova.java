@@ -1,4 +1,7 @@
 package org.example;
 
-public class TomadaNova {
+class TomadaNova {
+    void conectarNovoPino() {
+        System.out.println("Tomada nova conectada!");
+    }
 }
